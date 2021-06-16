@@ -1,6 +1,6 @@
-#EXTINF:-1 tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/18113602/kapamilya-channel-logo-300x300.png" group-title="Local/PH",Kapamilya Channel (HD)
+#EXTINF:-1 tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/18113602/kapamilya-channel-logo-300x300.png" group-title="iWant",Kapamilya Channel (HD)
 https://tfciptv-lh.akamaihd.net/i/kapcha_1@342755/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/TeleRadyo_Logo.svg/230px-TeleRadyo_Logo.svg.png" group-title="News",TeleRadyo
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/TeleRadyo_Logo.svg/230px-TeleRadyo_Logo.svg.png" group-title="iWant",TeleRadyo
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-teleradyo-oando/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kBQSvsJ/IMG-20201226-104652.png" group-title="Educational",Knowledge Channel
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kBQSvsJ/IMG-20201226-104652.png" group-title="iWant",Knowledge Channel
 https://amdottlive.akamaized.net/hls/live/2018990/iwantknowledge/master.m3u8
